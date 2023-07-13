@@ -15,3 +15,6 @@ public class Grapefruit extends Fruit {
         f1.run();
     }
 }
+
+// so for your Assignment 1 hand in : make a linked list
+// start at the end of the linked list and go to the beginning
